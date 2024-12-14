@@ -32,6 +32,7 @@ gem 'jbuilder', '~> 2.5'
 
 gem "bootstrap", "~> 4.0.0"
 gem "mini_racer"
+gem 'rails-i18n'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
